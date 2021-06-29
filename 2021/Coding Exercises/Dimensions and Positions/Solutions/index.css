@@ -1,0 +1,26 @@
+header {
+	width: 50vw;
+	height: 50vh;
+	background: lightseagreen;
+	background-clip: content-box;
+	padding: 10px;
+	border: solid 10px purple;
+	margin: 0;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+nav {
+	width: 400px;
+	height: 300px;
+	background: lightskyblue;
+}
+
+img {
+	width: 50px;
+	height: 50px;
+	background: red;
+	position: relative;
+	top: 5px;
+	left: 10px;
+}
